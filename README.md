@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello, I'm a 13yo German Programmer who is interested in OSDev and such. Check some repos
+Hello
+- from Germany
+- on Arch
+- OSDev
+- I like TF2
+
+Specs:
+- Arch
+- Wayland w/ KDE
+- GTX 1650 Ti
+- Ryzen 5 4000
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21967645) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfeoeTWbN81zQYa6-49YDeA) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RaphtikGHG) 
