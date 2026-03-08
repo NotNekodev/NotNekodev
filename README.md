@@ -1,11 +1,21 @@
-Uhh hi, I do low level stuff ig :3
+Carpe Diem! Seize the day!
 
-I like Java (yes), C, Assembly and allat.
+- C supremancy
+- Sometimes C++
+- aromantic
+- Formula 1 (Fratelli d'Italia)https://modrinth.com/mod/c2me-fabric
+- Sometimes java (kotlin better)
+- German
+- Violin
 
-I recommend you check out my operating system kernel [purpleK2](https://github.com/purplek2/purplek2)
+Music:
+- TV Girl
+- Guns 'n' Roses
+- Rammstein (sometimes)
+- Radiohead
+- Die Ärzte
 
-Some stuff:
-- I loove F1 (Vettel <3)
-- Catlover
-- Uses Linux because Windows is spyware
-- yes
+Join: [https://discord.com/invite/37N6JucCRa](https://discord.com/invite/37N6JucCRa)
+Star and run: [https://github.com/PurpleK2](https://github.com/PurpleK2)
+
+![rust](https://media1.tenor.com/m/lebvfLMEIG8AAAAd/rust-femboy.gif)
