@@ -3,7 +3,7 @@ Carpe Diem! Seize the day!
 - C supremancy
 - Sometimes C++
 - aromantic
-- Formula 1 (Fratelli d'Italia)https://modrinth.com/mod/c2me-fabric
+- Formula 1 (Fratelli d'Italia)
 - Sometimes java (kotlin better)
 - German
 - Violin
