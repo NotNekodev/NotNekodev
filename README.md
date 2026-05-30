@@ -1,8 +1,22 @@
-<img src="https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif" width="2000" height="500" />
+![boykisser](C.png)
+<div align="center">
 
-## Stuff about me
-- Gay (taken)
-- Into Forumla 1
-- Plays the violin
-- From Germany
-- minor
+# Nekodev
+just call me Neko
+
+About me:
+- I am gay
+- I like music a lot (German bands (die Ärzte, Wir sind Helden, die Toten Hosen), Guns n Roses, Radiohead)
+- Femboy
+- German
+
+I also like watching f1 and photography
+
+languages
+1. c
+2. c
+3. c
+4. c
+5. did i mention C?
+
+</div>
