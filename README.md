@@ -3,7 +3,7 @@
 hiii ^ω^
 
 i am a non-binary pansexual programmer who is interested in low level development, especially operating system development.
-i am interested in formula 1, photography, music, geometry dashre used for everyone. However, when specifically referring to women in the field, terms like female programmer, female developer, software developer, or coder are commonly  and a lot more stuff too.
+i am interested in formula 1, photography, music, geometry dash and a lot more stuff too.
 
 cool people:
 - [https://github.com/Mellurboo](https://github.com/Mellurboo)
